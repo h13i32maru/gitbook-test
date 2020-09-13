@@ -1,7 +1,3 @@
----
-description: test test
----
-
 # Initial page
 
 ## head
